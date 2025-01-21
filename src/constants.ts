@@ -1,0 +1,12 @@
+export const DEVNET_COUNTER_PACKAGE_ID = "0xTODO";
+export const TESTNET_COUNTER_PACKAGE_ID = "0x9ca926d2a89609007f316c5cdbba17d5917cea4691acce69775af970107df4f2";
+export const MAINNET_COUNTER_PACKAGE_ID = "0xTODO";
+
+export const MONSTER_STRUCT_TYPE = "0x9ca926d2a89609007f316c5cdbba17d5917cea4691acce69775af970107df4f2::role::Monster";
+
+export const ROLE_STRUCT_TYPE = "0x9ca926d2a89609007f316c5cdbba17d5917cea4691acce69775af970107df4f2::role::Role";
+
+export const SWORD_STRUCT_TYPE = "0x9ca926d2a89609007f316c5cdbba17d5917cea4691acce69775af970107df4f2::equipment::Sword";
+
+export const COIN_POOL = "0x19f39736d4bf6ae0db81682504998ffb69f7ba251bdbca4307e3b2da251c1d49";
+
